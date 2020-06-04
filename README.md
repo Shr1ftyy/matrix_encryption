@@ -1,4 +1,5 @@
 # Hill Cipher-like encryption Implementation in Python 3
+### Author: Syeam Bin Abdullah
 ## Info:
  - mod.py - Hill Cipher, but with a twist (adds a stop char if length of
 	 sentence is odd)
